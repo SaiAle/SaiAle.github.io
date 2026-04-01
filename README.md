@@ -21,7 +21,7 @@
 public class SaiKumarAle extends SeniorDeveloper {
 
     private String location    = "Dallas, TX 📍";
-    private String experience  = "7+ Years";
+    private String experience  = "6+ Years";
     private String focus       = "Microservices | Cloud-Native | Event-Driven Architecture";
     private boolean openToWork = true;
 
@@ -37,7 +37,7 @@ public class SaiKumarAle extends SeniorDeveloper {
 }
 ```
 
-> Senior Java Developer with **7+ years** of experience building scalable enterprise applications across **fintech, e-commerce, and banking**. Expert in microservices, cloud-native architecture, and mentoring engineering teams.
+> Senior Java Developer with **6+ years** of experience building scalable enterprise applications across **fintech, e-commerce, and banking**. Expert in microservices, cloud-native architecture, and mentoring engineering teams.
 
 ---
 
