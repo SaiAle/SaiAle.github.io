@@ -121,6 +121,42 @@ Authored research proposing a statistical ranking framework for detecting fraudu
 
 ---
 
+### 🛡️ Malware Captures Using Machine Learning
+> **Network Intrusion Detection · 2023**
+
+Designed and executed a network intrusion detector model analyzing **4 million data rows** to differentiate between regular and malicious connections. Improved model performance by introducing new threat patterns and employing advanced ML techniques for precise data distribution modeling and dataset augmentation.
+
+`Machine Learning` `Network Security` `Intrusion Detection` `Data Augmentation`
+
+---
+
+### 🧠 NLP Using AI Applications
+> **Natural Language Processing · 2022**
+
+Utilized the Gutenberg corpus tool in the NLTK package to analyze **100+ texts**, identifying varying utilization of distinct language models with a wide range of relative frequencies. Compared usage across **10+ models** and explained differences in word utilization patterns.
+
+`NLP` `NLTK` `Python` `Text Analysis` `Gutenberg Corpus`
+
+---
+
+### 🏦 Lending Club Loan Status Prediction
+> **Financial ML Model · 2021**
+
+Analyzed loan data from **2007–2015**, constructed baseline models using Random Forest and Logistic Regression, then enhanced predictions with Neural Networks and Naive Bayes — improving accuracy in identifying current and past-due loan statuses.
+
+`Random Forest` `Neural Networks` `Logistic Regression` `Naive Bayes` `Python`
+
+---
+
+### 🎵 Spotify Tracks Popularity — Analysis & Prediction
+> **2021**
+
+Cleansed, processed, and presented variables to detect patterns (most popular artists, song attribute correlations). Created and tested **6 ML classification models** — Random Forest achieved the best accuracy of **0.7179**. Feature importance ranked loudness, acousticness, and valence as top predictors.
+
+`Random Forest` `Data Analysis` `Feature Engineering` `Python` `6 ML Models`
+
+---
+
 ## 📈 Key Metrics
 
 ```
